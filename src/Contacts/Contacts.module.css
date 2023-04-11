@@ -1,0 +1,29 @@
+.contactsContainer {
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.contacts {
+    background-color: #8398f3;
+    height: 35vh;
+}
+
+
+.innerContainer {
+    min-width: 30%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.textArea{
+    min-width: 30%;
+    max-width: 100%;
+}
+
+/*Не понял почему textArea не принимает ширину родителя вместе с инпутами, поэтому отдельно*/

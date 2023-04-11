@@ -1,0 +1,24 @@
+.skillsContent{
+    background-color: #f3d3ab;
+    min-height: 100vh;
+    max-height: max-content;
+
+}
+.skillsContainer{
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+.skills{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+
+}
+.title{
+    background-color: aqua;
+}

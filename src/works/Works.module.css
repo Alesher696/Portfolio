@@ -1,0 +1,48 @@
+.works {
+    background-color: #bce382;
+    min-height: 50vh;
+    max-height: max-content;
+}
+
+.worksContainer {
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.projects {
+    min-width: 30%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    max-height: max-content;
+
+}
+
+.img {
+    width: 100%;
+    height: 150px;
+    background-color: #282c34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project {
+    width: 100%;
+
+}
+
+.button {
+
+}
+
+.description {
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+}

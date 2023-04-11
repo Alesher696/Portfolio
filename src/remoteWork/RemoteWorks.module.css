@@ -1,0 +1,11 @@
+.remoteWork {
+    background-color: #79e19e;
+    height: 20vh;
+}
+
+.remoteWorkContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+}
